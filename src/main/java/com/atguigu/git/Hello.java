@@ -9,5 +9,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("We are 伐木累");
         System.out.println("go go go");
+        System.out.println("123");
     }
 }
